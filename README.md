@@ -21,3 +21,4 @@ Success Criteria
 5. CAN Bus Communication
 6. Provide flexibility of replacing assemblies
 
+![microrov](https://github.com/winnieay/MicroROV/assets/88380759/e1bdcdf2-3949-4ab2-95fb-9fd1bfe51fd8)
