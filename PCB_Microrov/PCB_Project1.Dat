@@ -1,0 +1,15 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~PCB_Project1.PrjPCB|ReportField=ProjectFullPath~C:\Users\Winnie\Desktop\PCB_Microrov\PCB_Project1.PrjPCB|ReportField=Title~Bill of Materials For Project [PCB_Project1.PrjPCB] (No PCB Document Selected)|ReportField=ReportTime~12:59:01|ReportField=ReportDate~28/06/2023|ReportField=ReportDateTime~28/06/2023 12:59:01|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~35|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~9e33a9f22789611d227f600f481969f287509e1c|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~28/06/2023|ReportField=CurrentTime~12:58:39|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Winnie\Desktop\PCB_Microrov\Sheet1.SchDoc|ReportField=DocumentName~Sheet1.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~20/08/2022|ReportField=Organization~|ReportField=ProjectName~PCB_Project1.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~PCB_Project1.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Winnie\Desktop\PCB_Microrov\PCB_Project1.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Cap Semi|Capacitor (Semiconductor SIM Model)|C8, C9, C10, C11, C12, C13, C21, C22, C23, C24, C25, C26, C27, C28, C29, C30, C31, C32, C40|C0805|Cap Semi|19
+2|22uF||C33, C34|C0805|Cap|2
+3|Cap2|Capacitor|C51, C52|CAPR5-4X5|Cap2|2
+4|CAM||CAM|PCBComponent_1|COMPONENT_1|1
+5|STM32F103C8T6||IC1|LQFP48|STM32F103C8T6|1
+6|AMS1117-3.3|Integrated Circuit|IC3|SOT229P700X180-4N|AMS1117-3.3|1
+7|AMS1117-5v|Integrated Circuit|IC4|SOT229P700X180-4N|AMS1117-3.3|1
+8|TJA1050T|Integrated Circuit|IC5|SOIC127P600X175-8N|TJA1050T|1
+9|Header||P1, P5|HDR1X4|Header 4|2
+10|Header 5|Header, 5-Pin|P2|HDR1X5|Header 5|1
+11|Header 3|Header, 3-Pin|P4|HDR1X3|Header 3|1
+12|10K||R3|R0805|Resistor_1|1
+13|120R|Resistor|R4|R0805|Res3|1
+14|8Mhz||XT1|3225-P|Passive Crystal|1
