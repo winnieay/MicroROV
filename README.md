@@ -11,8 +11,8 @@ In this project, a Micro-ROV will be developed as a low-cost telerobotic submari
 
 <p align="center">
     <h3>System Block Diagram</h3><br/>
-    <img width="300" src="https://github.com/winnieay/MicroROV/assets/88380759/da202c72-e7d1-4fe2-840c-a53f9abd171d">
-    <img width="300" src="https://github.com/winnieay/MicroROV/assets/88380759/7abcd3b5-8d68-4043-8c72-8dcb3ca7fc2d">
+    <img height="350" src="https://github.com/winnieay/MicroROV/assets/88380759/da202c72-e7d1-4fe2-840c-a53f9abd171d">
+    <img height="350" src="https://github.com/winnieay/MicroROV/assets/88380759/7abcd3b5-8d68-4043-8c72-8dcb3ca7fc2d">
 </p>
 
 ## Objectives ##
@@ -26,6 +26,13 @@ In this project, a Micro-ROV will be developed as a low-cost telerobotic submari
     <img height="350" src="https://github.com/winnieay/MicroROV/assets/88380759/c4fd39eb-b74e-42c8-aa5d-d224909d923f">
 </p>
 
+## CAD Design ##
+<p align="center">
+    <img height="400" src="https://github.com/winnieay/MicroROV/assets/88380759/4b4c2491-e67f-4a80-85f3-9f5096d294f5"><br/>
+    <img height="400" src="https://github.com/winnieay/MicroROV/assets/88380759/b748404d-ae10-457c-bdb7-9a688c15f3af"><br/>
+    <img height="400" src="https://github.com/winnieay/MicroROV/assets/88380759/5fd95ca7-f93f-48f0-9cf9-24fd6a94aaeb"><br/>
+</p>
+
 ## Success Criteria ##
 1. Able to send the view back to the ground station
 2. Able to retrieve the object by using the gripper while only very limited space is available
@@ -36,8 +43,8 @@ In this project, a Micro-ROV will be developed as a low-cost telerobotic submari
 
 ## Testing and the Final Product ##
 <p align="center">
+    <img width="400" src="https://github.com/winnieay/MicroROV/assets/88380759/ad9fbede-2e4c-4669-bca8-eb279044fb07">
     <img width="400" src="https://github.com/winnieay/MicroROV/assets/88380759/b932698d-dfee-4503-b7bb-d6baafdf4218"> <br/>
-    <img width="400" src="https://github.com/winnieay/MicroROV/assets/88380759/ad9fbede-2e4c-4669-bca8-eb279044fb07"> <br/>
 </p>
 
 
