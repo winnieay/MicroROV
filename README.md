@@ -1,9 +1,9 @@
 # MicroROV
 This is a project to create a simple prototype of a Micro-Class ROV.
 <p align="center">
-    <img width="250" src="https://github.com/winnieay/MicroROV/assets/88380759/e1bdcdf2-3949-4ab2-95fb-9fd1bfe51fd8">
+    <img width="500" src="https://github.com/winnieay/MicroROV/assets/88380759/e1bdcdf2-3949-4ab2-95fb-9fd1bfe51fd8">
 </p>
-![microrov](https://github.com/winnieay/MicroROV/assets/88380759/e1bdcdf2-3949-4ab2-95fb-9fd1bfe51fd8)
+
 
 
 ## Topic: Object Retrieval with Micro-ROV ##
