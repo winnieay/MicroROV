@@ -28,9 +28,9 @@ In this project, a Micro-ROV will be developed as a low-cost telerobotic submari
 
 ## CAD Design ##
 <p align="center">
-    <img height="400" src="https://github.com/winnieay/MicroROV/assets/88380759/4b4c2491-e67f-4a80-85f3-9f5096d294f5"><br/>
-    <img height="400" src="https://github.com/winnieay/MicroROV/assets/88380759/b748404d-ae10-457c-bdb7-9a688c15f3af"><br/>
-    <img height="400" src="https://github.com/winnieay/MicroROV/assets/88380759/5fd95ca7-f93f-48f0-9cf9-24fd6a94aaeb"><br/>
+    <img width="600" src="https://github.com/winnieay/MicroROV/assets/88380759/4b4c2491-e67f-4a80-85f3-9f5096d294f5"><br/>
+    <img width="600"  src="https://github.com/winnieay/MicroROV/assets/88380759/b748404d-ae10-457c-bdb7-9a688c15f3af"><br/>
+    <img width="600" src="https://github.com/winnieay/MicroROV/assets/88380759/5fd95ca7-f93f-48f0-9cf9-24fd6a94aaeb"><br/>
 </p>
 
 ## Success Criteria ##
@@ -43,8 +43,8 @@ In this project, a Micro-ROV will be developed as a low-cost telerobotic submari
 
 ## Testing and the Final Product ##
 <p align="center">
-    <img width="400" src="https://github.com/winnieay/MicroROV/assets/88380759/ad9fbede-2e4c-4669-bca8-eb279044fb07">
-    <img width="400" src="https://github.com/winnieay/MicroROV/assets/88380759/b932698d-dfee-4503-b7bb-d6baafdf4218"> <br/>
+    <img height="400" src="https://github.com/winnieay/MicroROV/assets/88380759/ad9fbede-2e4c-4669-bca8-eb279044fb07">
+    <img height="400" src="https://github.com/winnieay/MicroROV/assets/88380759/b932698d-dfee-4503-b7bb-d6baafdf4218"> <br/>
 </p>
 
 
